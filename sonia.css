@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+.menu {
+    background-color: darkmagenta;
+    text-align: center;
+}
+
+.link {
+    display: inline-block;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    padding: 30px;
+    text-decoration: none;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.link:hover{
+    background-color: white;
+    color: black;
+}
+
+.menu2 {
+    margin-top: 30px;
+    background-color: darkgray;
+    text-align: center;
+}
+
+.link2 {
+    display: inline-block;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    padding: 30px;
+    text-decoration: none;
+    font-family: 'Cormorant SC', serif;
+}
+
+.link2:hover{
+    background-color: aliceblue;
+    color: blue;
+}
